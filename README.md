@@ -1,12 +1,35 @@
-# React + Vite
+# Tic-Tac-Toe-Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Tic-Tac-Toe-Game is a simple implementation of the classic Tic Tac Toe game, also known as Noughts and Crosses. The game is played on a 3x3 grid, where players take turns to place their mark (X or O) in an empty cell. The objective is to be the first to get three of your marks in a row, either horizontally, vertically, or diagonally.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Playable in the browser
+- Responsive design
+- Simple and clean user interface
+- No installation required
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+To play Tic-Tac-Toe-Game, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/yourusername/tic-tac-toe-game.git`
+2. Navigate to the project directory: `cd tic-tac-toe-game`
+3. Open the `index.html` file in your web browser.
+4. Enjoy the game!
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
