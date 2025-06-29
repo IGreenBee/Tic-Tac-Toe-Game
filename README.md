@@ -16,6 +16,7 @@ Tic-Tac-Toe-Game is a simple implementation of the classic Tic Tac Toe game, als
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## Getting Started
 
